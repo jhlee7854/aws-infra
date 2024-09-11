@@ -1,0 +1,5 @@
+encryptionsalt: v1:vqq5OC0/r24=:v1:oHs4pl8PJQSUy5Io:ipZkz7cb0huB+rctrWy8fwyujpLG/A==
+config:
+  aws:region: ap-northeast-2
+  round-name: earth
+  vpc-cidr: 10.10.0.0/16
